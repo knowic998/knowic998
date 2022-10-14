@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @knowic998
 - 👀 I’m interested in everything tech, but also travel, videography and design.
-- 🌱 I’m currently learning Python, JS, SQL, and more
+- 🌱 I’m currently completing projects using Python, JS, SQL, React and more.
 - 💞️ I’m looking to collaborate on anything, always down to learn.
 - 📫 How to reach me 
 
